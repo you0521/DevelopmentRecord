@@ -1,0 +1,5 @@
+include ':app', ':advancedtextview'
+rootProject.name='DevelopmentRecord'
+include ':foregroundservice'
+include ':mqtt'
+include ':floatingwindow'
